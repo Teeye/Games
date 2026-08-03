@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+}
+button{
+    margin: 30px;
+    padding: 25px;
+    border-radius: 10px;
+    border: none;
+}
+.Red{
+    background-color: red;
+}
+
+.Blue{
+    background-color: blue;
+}
+
+.Green{
+    background-color: green;
+}
+
+.Yellow{
+    background-color: yellow;
+}
+
+.gameflash{
+    background-color: black;
+}
+.userflash{
+    background-color: white;
+}
