@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    min-height: 100vh;
+}
+
+button{
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    position:relative;
+    top: 400px;
+    cursor: pointer;
+}
+.flash{
+    background-color: red;
+}
